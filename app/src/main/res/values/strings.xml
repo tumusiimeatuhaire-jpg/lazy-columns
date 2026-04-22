@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Tumusiime. </string>
+    <string name="app_name">Tumusiime's App</string>
     <string name="search_placeholder">Search students...</string>
     <string name="profile_picture_content_description">Profile Picture</string>
     <string name="button_present">Present</string>
